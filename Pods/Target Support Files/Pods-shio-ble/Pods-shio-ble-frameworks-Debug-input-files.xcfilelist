@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-shio-ble/Pods-shio-ble-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/CorePlot/CorePlot.framework
