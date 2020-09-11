@@ -12,3 +12,6 @@ To use this app, you must have one or more Shio platforms to stream PDM audio
 5. Click on "Start Mic Stream" to enable the PDM audio notification stream on the Shio devices
 6. To log data to a text file, click on "Start Record"
 7. To enable source separation and localization, click on "Start Predicting"
+
+## Demo
+<img src="https://github.com/jjaime2/shio-iOS/blob/master/shio_iOS.PNG" height="600">
